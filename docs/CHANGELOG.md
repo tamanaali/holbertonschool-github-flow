@@ -1,3 +1,3 @@
-## Unreleased
+## v1.1.0
    - The docs/introduction.md and docs/history.md has been updated with extra information for clarity on line 8 of the code
    - The merge conflict was resolved which, occurred because feature/conflict-a and feature/conflict-b changed the same paragraph in docs/collaboration.md to different sentences, so Git could not determine which version to keep. Git can automatically combine changes when branches modify different lines or separate parts of a file without interfering with each other. I resolved the conflict by choosing the agreed sentence, committing the change, and pushing the updated branch.
